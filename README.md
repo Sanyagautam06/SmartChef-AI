@@ -6,14 +6,14 @@
 ---
 
 ## 🟦 Outline
--Problem Statement
--Proposed Solution
--System Development Approach
--Agentic AI Logic & Deployment
--Results
--Conclusion
--Future Scope
--References
+- [🟥 Problem Statement](#-problem-statement)
+- [🟨 Proposed Solution](#-proposed-solution)
+- [🟩 System Development Approach](#-system-development-approach)
+- [🟧 Agentic AI Logic & Deployment](#-agentic-ai-logic--deployment)
+- [🟦 Results](#-results)
+- [🟪 Conclusion](#-conclusion)
+- [🟫 Future Scope](#-future-scope)
+- [📘 References](#-references)
 
 ---
 
